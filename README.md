@@ -1,6 +1,6 @@
 # Desafio Oracle Next Education - Decodificador de texto.
 
-## Link para acessar a aplicação: https://desafio-one-s2.vercel.app/
+## Link para acessar a aplicação: https://challenge-one-s2-bt7u.vercel.app/
 
 ## Tecnologias usadas:
 
